@@ -26,7 +26,7 @@ t2=10 <br>
 ### Note: Keep the config.txt in the same folder as the .exe
 
 ## Build/Compilation Instructions
-1. Download and extract the PS2 folder.
+1. Download and extract then navigate to the PS2 folder.
 2. Open the command prompt
 3. Navigate to the PS2 folder.
 4. Compile all .cpp files in one command.
