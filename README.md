@@ -16,12 +16,12 @@ d=1000
 t1=3
 t2=10
 
-n --> number of dungeon instances
-t --> tanks
-h --> healers
-d --> dps
-t1 --> minimum completion time for a dungeon
-t2 --> maximum completion time for a dungeon
+- n --> number of dungeon instances 
+- t --> tanks
+- h --> healers
+- d --> dps
+- t1 --> minimum completion time for a dungeon
+- t2 --> maximum completion time for a dungeon
 
 ### Note: Keep the config.txt in the same folder as the .exe
 
