@@ -9,12 +9,12 @@
 - main.cpp
 
 ## Example config.txt:
-n=200
-t=200
-h=200
-d=1000
-t1=3
-t2=10
+n=200 <br>
+t=200 <br>
+h=200 <br>
+d=1000 <br>
+t1=3 <br>
+t2=10 <br>
 
 - n --> number of dungeon instances 
 - t --> tanks
