@@ -1,6 +1,6 @@
 # STDISCM_PS2
 
-# The PS2 folder contains the following files:
+## The PS2 folder contains the following files:
 - config.txt
 - dispatcher.h
 - dispatcher.cpp
@@ -26,9 +26,10 @@ t2=10 <br>
 ### Note: Keep the config.txt in the same folder as the .exe
 
 ## Build/Compilation Instructions
-1. Open the command prompt
-2. Navigate to the variant folder.
-3. Compile all .cpp files in one command.
+1. Download and extract the PS2 folder.
+2. Open the command prompt
+3. Navigate to the PS2 folder.
+4. Compile all .cpp files in one command.
 
 g++ main.cpp dispatcher.cpp dungeon.cpp -o lfg.exe -std=c++17 -Wall -pthread
 
